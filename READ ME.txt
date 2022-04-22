@@ -1,0 +1,23 @@
+In order to install the dupe checker, please do the following
+
+
+1-Install forge 1.8.9
+
+2-Remove any other mods from the mod folder since it can interfere
+
+3-Launch Minecraft and go to Skyblock
+
+4-Use Y (default*) for GUI or do /dpchecker
+
+5-A message will appear in chat saying:
+	[DupeChecker] Item is not duped!
+	or
+	[DupeChecker] WARNING Item is duped!
+
+
+
+
+
+
+
+*The keybind can be changed in controls
