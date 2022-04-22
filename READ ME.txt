@@ -3,7 +3,7 @@ In order to install the dupe checker, please do the following
 
 1-Install forge 1.8.9
 
-2-Remove any other mods from the mod folder since it can interfere
+2-Remove Skytils from the mod folder since it won't work
 
 3-Launch Minecraft and go to Skyblock
 
